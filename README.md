@@ -83,14 +83,16 @@ Currently, I'm focused on improving my skills through personal projects, explori
 
 <div align="center">
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=RamliWane&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" 
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=RamliWane&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400"
     height="180"
+    alt="GitHub Stats"
   />
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamliWane&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" 
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamliWane&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400"
     height="180"
+    alt="Top Languages"
   />
 
 </div>
@@ -110,20 +112,13 @@ Currently, I'm focused on improving my skills through personal projects, explori
 
 <div align="center">
 
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=RamliWane&theme=tokyo-night&hide_border=true&area=true" 
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=RamliWane&theme=tokyo-night&hide_border=true&area=true"
     width="95%"
+    alt="GitHub Activity Graph"
   />
 
 </div>
 
 ---
 
-## 🚀 What I'm Working On
-
-```text
-Frontend Development   ███████████████████░░   90%
-Backend Development    ███████████████░░░░░░   70%
-Database               ██████████████░░░░░░░   65%
-UI/UX                  █████████████░░░░░░░░   60%
-DevOps                 ████████░░░░░░░░░░░░░   40%
