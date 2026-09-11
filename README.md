@@ -1,63 +1,129 @@
+<img align="center" width="100%" src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif">
 
-<img align="center" width="800" src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif">
 <br>
-<br>
+
+<h1 align="center">Hi, I'm Ramli 👋</h1>
+
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&pause=1000&color=F7F7F7&width=435&lines=Student+Of+Smk+Taruna+Bhakti;+Beginners+who+are+trying+to+learn" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Frontend+Developer;Full+Stack+Developer+in+Progress;Always+Learning+%26+Building;Turning+Ideas+Into+Web+Experiences" alt="Typing SVG" />
+  </a>
 </p>
 
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h2>👨🏻‍💻About Me</h2>
-      <ul>
-        <li>👨‍💻 Building Website that help people every day.</li>
-        <li>📚 Focused on learning and improving</li>
-        <li>🎯 Enjoy working on a variety of projects</li>
-        <li>👥 Open to collaboration</li>
-      </ul>
-      <div align="start">
-        <img src="https://komarev.com/ghpvc/?username=RamliWane&style=flat&color=brightgreen" alt="Profile Views" />
-      </div>
-      <div align="start">
-        <a href="mailto:ramlisilawane865@gmail.com">
-          <img src="https://img.shields.io/badge/Gmail-EA4335.svg?logo=Gmail&logoColor=white" alt="Gmail">
-        </a>
-        <a href="https://www.instagram.com/wanee27_/">
-          <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
-        </a>
-      </div>
-      <!-- Tech Stack -->
-      <h3>🛠️ Tech Stack</h3>
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-      <br>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-      <br>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-      <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white" alt="Laragon" />
-    </td>
-    <td width="50%" valign="top">
-      <h3>📊 My GitHub Statistics</h3>
-      <img src="https://github-readme-stats.vercel.app/api?username=RamliWane&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="100%" />
-      <br><br>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamliWane&theme=dark&hide_border=true" alt="GitHub Streak" width="100%" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/RamliWane">
+    <img src="https://komarev.com/ghpvc/?username=RamliWane&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+</p>
 
-## 📈 GitHub Activity & Languages
+---
+
+## 👨🏻‍💻 About Me
+
+I'm a **Frontend Developer** who enjoys building modern and useful web applications.
+
+Currently, I'm focused on improving my skills through personal projects, exploring different technologies, and learning how to build better user experiences.
+
+- 💻 Building websites and web applications
+- 📚 Continuously learning and improving my development skills
+- 🎯 Interested in Frontend & Full Stack Development
+- 🧩 Enjoy solving problems through code
+- 🚀 Exploring new technologies and development tools
+- 🤝 Open to collaboration and new opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=for-the-badge&logo=astro&logoColor=white" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+</p>
+
+### 🗄️ Database
+
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+### 🔧 Tools & Development
+
+<p>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laragon-0E83CD?style=for-the-badge&logo=laragon&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RamliWane&theme=react-dark&hide_border=true" alt="GitHub Activity Graph" />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=RamliWane&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" 
+    height="180"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamliWane&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" 
+    height="180"
+  />
+
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamliWane&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=RamliWane&theme=tokyonight&hide_border=true&border_radius=10" 
+    width="60%"
+  />
 </div>
+
+---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=RamliWane&theme=tokyo-night&hide_border=true&area=true" 
+    width="95%"
+  />
+
+</div>
+
+---
+
+## 🚀 What I'm Working On
+
+```text
+Frontend Development   ███████████████████░░   90%
+Backend Development    ███████████████░░░░░░   70%
+Database               ██████████████░░░░░░░   65%
+UI/UX                  █████████████░░░░░░░░   60%
+DevOps                 ████████░░░░░░░░░░░░░   40%
