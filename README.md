@@ -1,4 +1,4 @@
-<img align="center" width="100%" src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif">
+<!-- <img align="center" width="100%" src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif"> -->
 
 <br>
 
@@ -84,15 +84,9 @@ Currently, I'm focused on improving my skills through personal projects, explori
 <div align="center">
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=RamliWane&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400"
-    height="180"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamliWane&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=86400"
-    height="180"
-    alt="Top Languages"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RamliWane&theme=tokyonight"
+    width="95%"
+    alt="GitHub Profile Summary"
   />
 
 </div>
@@ -100,22 +94,17 @@ Currently, I'm focused on improving my skills through personal projects, explori
 <br>
 
 <div align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=RamliWane&theme=tokyonight&hide_border=true&border_radius=10" 
-    width="60%"
-  />
-</div>
-
----
-
-## 📈 GitHub Activity
-
-<div align="center">
 
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=RamliWane&theme=tokyo-night&hide_border=true&area=true"
-    width="95%"
-    alt="GitHub Activity Graph"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RamliWane&theme=tokyonight"
+    width="46%"
+    alt="Repositories Per Language"
+  />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RamliWane&theme=tokyonight"
+    width="46%"
+    alt="Most Commit Language"
   />
 
 </div>
