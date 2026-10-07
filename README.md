@@ -245,22 +245,3 @@ Write cleaner and maintainable code
 </div>
 
 ---
-
-
-<div align="center">
-
-## BUILD · LEARN · IMPROVE
-
-<br>
-
-<a href="mailto:ramlisilawane865@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-  />
-</a>
-
-<br><br>
-
-⭐ Thanks for visiting my profile!
-
-</div>
