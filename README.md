@@ -4,7 +4,7 @@
 
 <p>
   Building modern web experiences and learning how
-  frontend, backend, and databases work together.
+  frontend, backend, and databases.
 </p>
 
 <p>
