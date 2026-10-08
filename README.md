@@ -1,6 +1,6 @@
 <div align="center">
 
-### Frontend Developer · Road To Full Stack Dev
+### Frontend Developer · Road To Full Stack
 
 <p>
   Building modern web experiences and learning how
